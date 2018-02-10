@@ -32,7 +32,7 @@ Install one of the following links:
 
 ### Install
 
-    git clone https://github.com/baivong/de4js.git
+    git clone https://github.com/ntpvtt/de4js.git
     cd de4js
 
 If you don't have Ruby installed, install [Ruby 2.1.0 or higher](https://www.ruby-lang.org/en/downloads/).
@@ -57,13 +57,13 @@ Preview **de4js** in your web browser at `http://localhost:4000`
 
 ## License
 
-[MIT License](https://baivong.mit-license.org/) © [Zzbaivong](https://baivong.github.io/)
+[MIT License](https://ntpvtt.mit-license.org/) © [Zzbaivong](https://ntpvtt.github.io/)
 
 ## Credits
 
 ### Active Contributors
 
-- [Zzbaivong](https://github.com/baivong)
+- [Zzbaivong](https://github.com/ntpvtt)
 
 ### Open Source Contributors
 
