@@ -1,0 +1,14 @@
+name: Phuong Blog
+description: JavaScript Deobfuscator and Unpacker
+version: 1.1.0
+author: Phuongblog
+author_email: ntpvtt@gmail.com
+url: https://ntpvtt.github.io
+baseurl: /de4js
+license: MIT
+
+theme: jekyll-theme-hacker
+show_downloads: false
+google_analytics: UA-106940288-1
+sass:
+  style: compressed
