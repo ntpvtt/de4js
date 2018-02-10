@@ -55,7 +55,7 @@ Preview **de4js** in your web browser at `http://localhost:4000`
 
 ## License
 
-[MIT License](https://ntpvtt.mit-license.org/) © [PhuongBlog](https://ntpvtt.github.io/)
+[MIT License](https://ntpvtt.mit-license.org/) © [Zzbaivong](https://ntpvtt.github.io/)
 
 ## Credits
 
