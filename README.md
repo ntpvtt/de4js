@@ -2,13 +2,6 @@
 
 JavaScript Deobfuscator and Unpacker
 
-## Helper
-
-The **Unreadable** option is disabled by default, because it uses data from [JS Nice](http://www.jsnice.org/). This cannot be done with JavaScript. You need to install UserScript [de4js_helper.user.js](https://github.com/ntpvtt/de4js/blob/master/userscript/de4js_helper.user.js) to enable it.
-
-Install one of the following links:
-
-- [Github](https://github.com/ntpvtt/de4js/raw/master/userscript/de4js_helper.user.js)
 
 ## Features
 
@@ -55,7 +48,7 @@ Preview **de4js** in your web browser at `http://localhost:4000`
 
 ## License
 
-[MIT License](https://ntpvtt.mit-license.org/) © [Zzbaivong](https://ntpvtt.github.io/)
+[MIT License](https://www.phuongblog.com/) © [PhuongBlog](https://www.phuongblog.com/)
 
 ## Credits
 
