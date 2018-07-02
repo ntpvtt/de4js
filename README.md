@@ -59,6 +59,10 @@ Preview **de4js** in your web browser at `http://localhost:4000`
 
 ## Credits
 
+### Active Contributors
+
+- [PhuongBlog](https://github.com/ntpvtt)
+
 ### Open Source Contributors
 
 - [js-beautify@1.7.3](https://github.com/beautify-web/js-beautify)
